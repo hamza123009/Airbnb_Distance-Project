@@ -3,7 +3,8 @@ import plotly.express as px
 import streamlit as st
 
 # Display title and text
-st.title("Hamza Amir \nWeek 1 - Data and visualization")
+st.title("Hamza Amir")
+st.title("Week 1 - Data and visualization")
 st.markdown("Here we can see the dataframe created during this project.")
 
 # Read dataframe
